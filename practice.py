@@ -1,1 +1,1 @@
-print("My first GitHub contribution")
+print("Learning Git and GitHub")
